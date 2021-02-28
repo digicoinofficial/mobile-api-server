@@ -1,0 +1,6 @@
+{
+  "notification": {
+    "title": "DIGA",
+    "body": "Payment received: {{amount}} DIGA"
+  }
+}
